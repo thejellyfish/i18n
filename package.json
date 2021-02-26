@@ -1,0 +1,38 @@
+{
+  "name": "@jollie/i18n",
+  "description": "Translate ...",
+  "keywords": ["i18n"],
+  "license": "MIT",
+  "author": "thejellyfish <the@jellyfish-commuting.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "codecov"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "codecov": "^3.7.0",
+    "jest": "^25.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thejellyfish/soundex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thejellyfish/soundex/issues"
+  },
+  "homepage": "https://github.com/thejellyfish/soundex#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "collectCoverageFrom": [
+      "index.js"
+    ],
+    "coverageReporters": [
+      "lcov",
+      "text-summary"
+    ]
+  }
+}
