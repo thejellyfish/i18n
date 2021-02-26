@@ -3,7 +3,7 @@
   "description": "Translate ...",
   "keywords": ["i18n"],
   "license": "MIT",
-  "author": "thejellyfish <the@jellyfish-commuting.com>",
+  "author": "Mohamed BENARROUDJ <mohamed@jollie.com>",
   "main": "index.js",
   "scripts": {
     "test": "jest",
