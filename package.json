@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/thejellyfish/soundex.git"
+    "url": "git://github.com/thejellyfish/i18n.git"
   },
   "bugs": {
-    "url": "https://github.com/thejellyfish/soundex/issues"
+    "url": "https://github.com/thejellyfish/i18n/issues"
   },
-  "homepage": "https://github.com/thejellyfish/soundex#readme",
+  "homepage": "https://github.com/thejellyfish/i18n#readme",
   "publishConfig": {
     "access": "public"
   },
