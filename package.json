@@ -5,7 +5,7 @@
     "i18n"
   ],
   "license": "MIT",
-  "author": "Mohamed BENARROUDJ <mohamed@jollie.com>",
+  "author": "Mohamed BENARROUDJ <m@jollie.com>",
   "main": "index.js",
   "scripts": {
     "test": "jest",
