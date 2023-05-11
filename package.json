@@ -4,6 +4,7 @@
   "keywords": [
     "i18n"
   ],
+  "version": "1.0.1",
   "license": "MIT",
   "author": "Mohamed BENARROUDJ <m@jollie.com>",
   "main": "index.js",
