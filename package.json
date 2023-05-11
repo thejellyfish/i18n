@@ -1,7 +1,9 @@
 {
   "name": "@jollie/i18n",
   "description": "Translate ...",
-  "keywords": ["i18n"],
+  "keywords": [
+    "i18n"
+  ],
   "license": "MIT",
   "author": "Mohamed BENARROUDJ <mohamed@jollie.com>",
   "main": "index.js",
