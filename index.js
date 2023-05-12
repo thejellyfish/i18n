@@ -1,6 +1,9 @@
 /* eslint-disable no-underscore-dangle */
 let messages = {};
 
+/**
+ * Translate a message
+ */
 function __(...args) {
   // Init vars
   const words = [...args.shift()];
@@ -19,6 +22,9 @@ function __(...args) {
   return translation.replace(/%s/g, () => args.shift());
 }
 
+/**
+ * Load JSON dictionary
+ */
 __.setMessages = function (data){
   messages = data;
 };
